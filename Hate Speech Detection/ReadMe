@@ -1,1 +1,5 @@
 Hate speech detection model in this sub-directory
+
+References:
+1. Dataset: https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
+2. Ethical Communication Notebook: https://www.kaggle.com/code/soumyakushwaha/ethicalcommunicationai#Split-Dataset
